@@ -40,8 +40,8 @@ Or install it yourself as:
 The "plainwhite" key in _config.yml is used to customize the theme data.
 ```yaml
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Jimin Pi
+  tagline: PhD Candidate, Hong Kong University of Science and Technology
   date_format: "%b %-d, %Y"
 
   social_links:
